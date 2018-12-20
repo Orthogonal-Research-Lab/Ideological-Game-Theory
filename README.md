@@ -15,7 +15,9 @@ Partial epistemic judgements also play a role in heuristic judgments, particular
 #### What makes a game “ideological”?
 In a standard two-player game, each player deploys a strategy suite. Interactions of these strategies in nature determines the outcome. For our purposes, this process can be broken down into a rationalization step and an optimization step. The rationalization step involves the recognition and formulation of strategies. For example, in naughts and crosses, both players must recognize the role of turn-taking as a mutual means to organize temporal structure. While the positional placement of Xs and Os is just as important, it is merely an outcome (and consequence) of temporal structure. While the rationalization step is viewed here as subcognitive, optimization can be viewed as more explicitly cognitive. In classical game theory, it is the optimization step which generates utility (e.g. a payoff function). Using a rational decision-making framework, players often arrive at some set of optimal outcomes. These sets can be referred to as equilibria, but are generated from an oft-ignored transformation: the conversion of empirical observations into patterns of strategy deployment.  
 
-
+<p align="center">
+  <img width="954" height="384" src="https://user-images.githubusercontent.com/38323286/50314916-5d54c780-0476-11e9-9729-9b09e9a8f636.png"><br>
+</p>
 Figure 1. An example of how rationalization and optimization operate in a typical ideological game.  
 
 To examine this conversion process in more detail, we must reconsider the relationship between sets of beliefs and sets of empirical strategies (Figure 2). More specifically, we can view this as a conditional relationship. Empirical strategies are contingent upon the strength of a player's beliefs. This conditioned response occurs during the optimization step, so that it affects the direction of optimization for a series of interactions.  
@@ -31,7 +33,9 @@ Ideological tightness occurs according to the following process. The first stage
 
 Initial bias and Ideological Stochasticity. One way to model a connectionist relationship between empirical and ideological components is to begin the game with certain biases. Another way to model a connectionist relationship between empirical and ideological components is to begin the game with full connectivity, but remove weaker relationships as ideologies tighten, loosen, or the amount of variation amongst empirical observations changes.  
 
-
+<p align="center">
+  <img width="1012" height="714" src="https://user-images.githubusercontent.com/38323286/50314948-72c9f180-0476-11e9-870c-8a1d39cf5093.png"><br>
+</p>
 Figure 2. A connectionist example of the relationship between sets of empirical strategies (esn) and sets of beliefs (bn) combine to yield a payoff (pn) in an ideological game. Panel A represents an optimization process that is minimally reliant upon the belief set. Panel B represents a heterogeneous optimization process, with multiple empirical strategies being conditional upon multiple beliefs. Panel C shows a closed-looped belief set with specific beliefs being conditional upon this belief set. Panel D shows an extension of C, with some beliefs (es1, es2) being outside the cultural reference frame.  
 
 Payoff matrix
