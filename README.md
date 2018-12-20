@@ -35,7 +35,7 @@ Ideological tightness occurs according to the following process. The first stage
 Initial bias and Ideological Stochasticity. One way to model a connectionist relationship between empirical and ideological components is to begin the game with certain biases. Another way to model a connectionist relationship between empirical and ideological components is to begin the game with full connectivity, but remove weaker relationships as ideologies tighten, loosen, or the amount of variation amongst empirical observations changes.  
 
 <p align="center">
-  <img width="1012" height="714" src="https://user-images.githubusercontent.com/38323286/50314948-72c9f180-0476-11e9-870c-8a1d39cf5093.png"><br>
+  <img width="455" height="321" src="https://user-images.githubusercontent.com/38323286/50314948-72c9f180-0476-11e9-870c-8a1d39cf5093.png"><br>
 </p>
 Figure 2. A connectionist example of the relationship between sets of empirical strategies (esn) and sets of beliefs (bn) combine to yield a payoff (pn) in an ideological game. Panel A represents an optimization process that is minimally reliant upon the belief set. Panel B represents a heterogeneous optimization process, with multiple empirical strategies being conditional upon multiple beliefs. Panel C shows a closed-looped belief set with specific beliefs being conditional upon this belief set. Panel D shows an extension of C, with some beliefs (es1, es2) being outside the cultural reference frame.  
 
