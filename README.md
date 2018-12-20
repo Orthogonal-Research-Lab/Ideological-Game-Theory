@@ -82,6 +82,18 @@ Mercier, H. and Sperber, D. 2011. Why do humans reason? Arguments for an argumen
 
 van Eemeren, F.H. 2004. Argumentation Theory. In "Handbook of Argumentation Theory", Chapter 1. F.H. van Eemeren, B. Garssen, E.C.W. Krabbe, A.F. Snoeck Henkemans, B. Verheij, J.H.M. Wagemans eds. Springer Science + Business Media, Dordrecht.  
 
+### Demposter-Shafer Theory Notes:
+
+
+<p align="center">
+  <img width="432" height="324" src="https://user-images.githubusercontent.com/38323286/50315697-66936380-0479-11e9-8a0c-6ca2b8884af6.png"><br>
+</p>
+
+
+
+<p align="center">
+  <img width="432" height="324" src="https://user-images.githubusercontent.com/38323286/50315728-76ab4300-0479-11e9-9992-4390edb3df6a.png"><br>
+</p>
 
 
 ### Ideological Networks as Autocatalytic Sets:
