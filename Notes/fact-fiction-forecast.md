@@ -7,8 +7,9 @@ Projectability: past projections, evidence, and hypotheses.
 
 * outcomes (O), evidence strength (EV), and hypothesis (H). EV may or may not be weights between (O) and (H), as untrue hypotheses can be projected (beliefs supported by other hypotheses – selective sweep?).
 
-
-
+<p align="center">
+  <img width="400" height="268" src="https://user-images.githubusercontent.com/38323286/51443444-9028f000-1cae-11e9-8cfa-cdb3fa166a82.png"><br>
+</p>
 
 Hypothesis will be projected when it is adopted after some of its instances are examined and determined to be true.  
 
